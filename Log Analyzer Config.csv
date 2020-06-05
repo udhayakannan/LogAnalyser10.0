@@ -1,0 +1,3 @@
+Fetch_flag,Hostname/Host_IP,UserName,Password,HostFilePath,HostFileName,nooffilessplit,nooflines
+0,nl002076,tkmagq7,SmFuZTIwMTg=,/logs/infra/weblogic/ss-dom01_19010/,ss-dom01_19010_nohup.out,5,1000
+1,nl002369,tkmagq7,SmFuZTIwMTg=,/logs/infra/weblogic/ss-dom01_19010/,ss-dom01_19010_nohup.out,5,1000
